@@ -10,7 +10,7 @@ sudo vim /etc/apt/sources.list
 deb http://mirrors.aliyun.com/ubuntu/ xenial main restricted universe multiverse
 deb http://mirrors.aliyun.com/ubuntu/ xenial-security main restricted universe multiverse
 deb http://mirrors.aliyun.com/ubuntu/ xenial-updates main restricted universe multiverse
-deb http://mirrors.aliyun.com/ubuntu/ xenial-backports main restricted universe multiverse
+deb http://mirrors.aliyun.com/ubuntu/ xenial-backports main restricted universe multiverse  
 ####测试版源
 deb http://mirrors.aliyun.com/ubuntu/ xenial-proposed main restricted universe multiverse
 #### 源码
